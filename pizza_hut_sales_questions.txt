@@ -1,0 +1,25 @@
+Basic Questions
+
+1. Retrieve total number of orders placed
+2. Calculate the total revenue generated from pizza sales  
+3. Identify the highest-price pizza
+4. Identify the most common pizza size ordered 
+5. List the top 5 most ordered pizza types along with their quantities
+
+---
+
+Intermediate Questions
+
+1. Find the total quantity of each pizza category ordered
+2. Determine the distribution of orders by hour of the day  
+3. Category-wise distribution of pizzas available
+4. Average number of pizzas ordered per day
+5. Top 3 most ordered pizza types based on revenue
+
+---
+
+Advanced Questions
+
+1. Calculate the percentage contribution of each pizza category to total revenue
+2. Analyze the cumulative revenue generated over time
+3. Top 3 most ordered pizza types based on revenue for each pizza category (two query methods provided)
